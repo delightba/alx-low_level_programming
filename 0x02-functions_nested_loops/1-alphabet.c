@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet - check the code
+ * print_alphabet -  print lowercase alphabet a-z
  *
- * Return: Always 0.
+ * Return: always 0 (success)
  */
+
 void print_alphabet(void)
 {
 	int i;
